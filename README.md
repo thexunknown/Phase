@@ -3,3 +3,4 @@ Phase is a mod for the Simpsons Hit and Run that allows you to go through cars a
 
 To use this, use https://github.com/thexunknown/Phase/archive/master.zip and drag the containing folder into your "mods" folder.
 
+An alternative version can be found here: https://donutteam.com/forum/topic/1468/
